@@ -17,7 +17,6 @@ My career goal is to continue to grow as a web application developer and leverag
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" /> -->
 <!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
 <h2 align="center"></h2>
-
 <!--
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/>
