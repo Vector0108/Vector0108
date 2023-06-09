@@ -26,7 +26,6 @@ My career goal is to continue to grow as a web application developer and leverag
   </a>
 </div>
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SkyCaptainess&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/SkyCaptainess/github-widgetbox) -->
-
 <!-- <p align="center">
 <div align="center">
   <a href="https://github.com/angrybbomb">
