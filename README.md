@@ -21,7 +21,7 @@ My career goal is to continue to grow as a web application developer and leverag
 <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/>
 </div> -->
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
+  <a href="">
     <img src="https://visitcount.itsvg.in/api?id=Genie0108&label=Profile%20Views&color=0&icon=0&pretty=true" />
   </a>
 </div>
