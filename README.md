@@ -2,8 +2,6 @@
 🌟✨ Welcome to the realm of Vector! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I'm a JavaScript and Python frameworks engineer. I like to work with MERN/MEVN/MEAN stack and Django/Flask. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast.
 </h2>
 <h1>💖 About Me 💖</h1>
-<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-<p>
 I want to turn your desired ideas into reality!!! </p>
 <p>
 As a highly skilled software engineer with 7 years of experience in web application development, I have a Bachelor of Computer Science degree and a proven track record of designing and developing robust back-end solutions using REST APIs, Node.js and Laravel. My expertise in front-end development, including HTML, CSS, and JavaScript, enables me to build responsive and user-friendly interfaces that meet business requirements. Recently, I am using modern JavaScript frameworks such as Next.js, Nuxt.js, Angular, Nest.js and Express.js. Additionally, I am proficient in MySQL, jQuery, Python, and Java, and have experience with version control tools such as Git. I excel at problem-solving and optimization, and I have a strong commitment to writing clean, well-organized, and maintainable code. With excellent communication skills, I collaborate effectively with cross-functional teams to deliver high-quality software that meets clients' needs. 
